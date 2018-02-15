@@ -12,13 +12,13 @@ http://sebastianraschka.com/Articles/2014_sqlite_in_python_tutorial.html
 Fylgdu eftir leiðbeiningum í eftirfarandi ,,tutorial“
 https://www.youtube.com/watch?v=QOUJEcphpyI&list=PL2f672TgnXEbwXobh66djqCFBXvmhxWHw
 
-  a) búum til database og eina töflu
+    a) búum til database og eina töflu
 
-  b) búum til gögn og skoðum þau með print
+    b) búum til gögn og skoðum þau með print
 
-  c) login
+    c) login
 
-  d) create new user Function
+    d) create new user Function
 
 Ath. Til að búa til gagnagrunn í Pycharm; run og svo velja database þá verður til ,,local"
 gagnagrunnur með .db endingu.
