@@ -1,5 +1,5 @@
 # Verkefni 3.1 (6%)
-#### SQLite
+### SQLite
 1) Kynntu þér helstu atriði SQLite
 https://www.sqlite.org/
 
@@ -24,7 +24,9 @@ Ath. Til að búa til gagnagrunn í Pycharm; run og svo velja database þá ver�
 gagnagrunnur með .db endingu.
 
 
-SQLite og Flask
+### SQLite og Flask
+
+
 4) Skjoðaðu sýnidæmi frá kennara (Inna -> Efni->Verkefni 3) nemendalisti sem sýnir notkun Flask
 með SQList
 
