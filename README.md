@@ -39,7 +39,7 @@ http://flask.pocoo.org/docs/0.12/patterns/sqlite3/
 http://flask.pocoo.org/docs/0.12/tutorial/
 
 
-Námsmat og skil:
+#### Námsmat og skil:
 * Sýndu notkun á vefnum í lið 6 með Screencast tólinu https://screencast-o-matic.com/
 Settu youtube mynbandsslóðina (max 5 mín) í readme á Github.
 * Settu kóðann úr lið 3 og lið 6 á Github og skilaðu mér GitHub slóðinni á Innu
