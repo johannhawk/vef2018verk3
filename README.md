@@ -27,7 +27,7 @@ gagnagrunnur með .db endingu.
 ### SQLite og Flask
 
 
-4) Skjoðaðu sýnidæmi frá kennara (Inna -> Efni->Verkefni 3) nemendalisti sem sýnir notkun Flask
+4) Skoðaðu sýnidæmi frá kennara (Inna -> Efni->Verkefni 3) nemendalisti sem sýnir notkun Flask
 með SQList
 
 
