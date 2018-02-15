@@ -33,9 +33,9 @@ http://flask.pocoo.org/docs/0.12/tutorial/
 
 
 Námsmat og skil:
- Sýndu notkun á vefnum í lið 6 með Screencast tólinu https://screencast-o-matic.com/
+* Sýndu notkun á vefnum í lið 6 með Screencast tólinu https://screencast-o-matic.com/
 Settu youtube mynbandsslóðina (max 5 mín) í readme á Github.
- Settu kóðann úr lið 3 og lið 6 á Github og skilaðu mér GitHub slóðinni á Innu
- Gefið er fullt fyrir þá liði sem eru með fullnægjandi virkni, hálft fyrir þá sem eru
+* Settu kóðann úr lið 3 og lið 6 á Github og skilaðu mér GitHub slóðinni á Innu
+* Gefið er fullt fyrir þá liði sem eru með fullnægjandi virkni, hálft fyrir þá sem eru
 ábótavant.
- Ath. Það þarf ekki að setja vefinn á Digtal Ocean.
+* Ath. Það þarf ekki að setja vefinn á Digtal Ocean.
