@@ -68,9 +68,9 @@ The Flask Mega- Tutorial: Databases in Flask.
 https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-iv-database
 
 #### Námsmat og skil:
-*Gefið er fullt fyrir þá liði sem eru með fullnægjandi virkni eða svar fullnægjandi, hálft fyrir þá
+* Gefið er fullt fyrir þá liði sem eru með fullnægjandi virkni eða svar fullnægjandi, hálft fyrir þá
 sem eru ábótavant eða svar ábótavant.
 
-*Skilaðu á Innu GitHub slóð á kóðann ásamt vefslóð í readme sem vísra á a eða b:
+* Skilaðu á Innu GitHub slóð á kóðann ásamt vefslóð í readme sem vísra á a eða b:
 a) localhost, stutt skjámyndsupptaka af notkun vefs: https://screencast-o-matic.com/
 b) keyrandi veflausn (Digital Ocean).
