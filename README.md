@@ -50,6 +50,8 @@ Settu youtube mynbandsslóðina (max 5 mín) í readme á Github.
 # Verkefni 3.2 – ORM (7%)
 1. Hvað er ORM?, hverjir eru kostir þess (lágmark 25 orð)? (0.5%)
 
+        h
+
 2. Búðu til einfalt form með Flask-WTF til að geta notað með lið 3. (1.5%)
 
 3. Búðu til gagnagrunn með SQlite með tveimur töflum með smávegis af gögnum (frjáls útfærsla).
