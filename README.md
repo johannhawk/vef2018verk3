@@ -46,3 +46,30 @@ Settu youtube mynbandsslóðina (max 5 mín) í readme á Github.
 * Gefið er fullt fyrir þá liði sem eru með fullnægjandi virkni, hálft fyrir þá sem eru
 ábótavant.
 * Ath. Það þarf ekki að setja vefinn á Digtal Ocean.
+
+# Verkefni 3.2 – ORM
+1. Hvað er ORM?, hverjir eru kostir þess (lágmark 25 orð)? (0.5%)
+
+2. Búðu til einfalt form með Flask-WTF til að geta notað með lið 3. (1.5%)
+
+3. Búðu til gagnagrunn með SQlite með tveimur töflum með smávegis af gögnum (frjáls útfærsla).
+Notaðu ORM til að mehöndla gagnagrunn og gagnagrunnsaðgerðir; að lesa úr og skrifa í
+gagnagrunn. Notaðu Flask-SQLAlchemy og SQLite til að útfæra lausn. (5%)
+
+### Bjargir:
+
+Object-relational mapping.
+https://en.wikipedia.org/wiki/Object-relational_mapping
+
+The Flask Mega- Tutorial: Web Forms
+https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-iii-web-forms
+
+The Flask Mega- Tutorial: Databases in Flask.
+https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-iv-database
+
+#### Námsmat og skil:
+Gefið er fullt fyrir þá liði sem eru með fullnægjandi virkni eða svar fullnægjandi, hálft fyrir þá
+sem eru ábótavant eða svar ábótavant.
+Skilaðu á Innu GitHub slóð á kóðann ásamt vefslóð í readme sem vísra á a eða b:
+a) localhost, stutt skjámyndsupptaka af notkun vefs: https://screencast-o-matic.com/
+b) keyrandi veflausn (Digital Ocean).
