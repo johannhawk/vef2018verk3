@@ -47,7 +47,7 @@ Settu youtube mynbandsslóðina (max 5 mín) í readme á Github.
 ábótavant.
 * Ath. Það þarf ekki að setja vefinn á Digtal Ocean.
 
-# Verkefni 3.2 – ORM
+# Verkefni 3.2 – ORM (7%)
 1. Hvað er ORM?, hverjir eru kostir þess (lágmark 25 orð)? (0.5%)
 
 2. Búðu til einfalt form með Flask-WTF til að geta notað með lið 3. (1.5%)
