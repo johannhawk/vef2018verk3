@@ -62,13 +62,16 @@ Object-relational mapping.
 
 https://en.wikipedia.org/wiki/Object-relational_mapping
 
+
 The Flask Mega- Tutorial: Web Forms
 
 https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-iii-web-forms
 
+
 The Flask Mega- Tutorial: Databases in Flask.
 
 https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-iv-database
+
 
 #### Námsmat og skil:
 * Gefið er fullt fyrir þá liði sem eru með fullnægjandi virkni eða svar fullnægjandi, hálft fyrir þá
