@@ -45,7 +45,7 @@ Settu youtube mynbandsslóðina (max 5 mín) í readme á Github.
 * Settu kóðann úr lið 3 og lið 6 á Github og skilaðu mér GitHub slóðinni á Innu
 * Gefið er fullt fyrir þá liði sem eru með fullnægjandi virkni, hálft fyrir þá sem eru
 ábótavant.
-* Ath. Það þarf ekki að setja vefinn á Digtal Ocean.
+* Ath. Það þarf ekki að setja vefinn á Digital Ocean.
 
 # Verkefni 3.2 – ORM (7%)
 1. Hvað er ORM?, hverjir eru kostir þess (lágmark 25 orð)? (0.5%)
