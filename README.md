@@ -35,8 +35,8 @@ með SQList
 http://flask.pocoo.org/docs/0.12/patterns/sqlite3/
 
 
-6) ~~Fylgdu eftir Flaskr tutorial með sqlite, commentaðu á íslensku eftir þörfum (3%)
-http://flask.pocoo.org/docs/0.12/tutorial/ ~~
+6) ~~Fylgdu eftir Flaskr tutorial með sqlite, commentaðu á íslensku eftir þörfum
+http://flask.pocoo.org/docs/0.12/tutorial/  (3%)~~
 _Fara í mega tutorial í staðinn_
 
 
