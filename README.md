@@ -116,6 +116,8 @@ customer (name, phone). Sýndu hvernig eftirfarandi pizza pöntun væri sett upp
       
         svar
       b. Http Respond message
+      
+        svar
         
 6. Open Authorization (OAuth) og Token Base authentication. Útskýrðu hvað og hvernig þetta
 virkar
