@@ -93,25 +93,29 @@ An Introduction to APIs: https://zapier.com/learn/apis/
 1. Hver er munurinn á API og vefþjónustu (e. web services or Web API)? Hvað er sameiginlegt með
 þeim?
 
-        ```svar```
+        svar
 
 2. Pizza pöntun: crust type (orginal) toppings (cheese, pepperoni, garlic), status (cooking),
 customer (name, phone). Sýndu hvernig eftirfarandi pizza pöntun væri sett upp í:
    a. JSON
         
-        ```svar```
+        svar
         
    b. XML
         
-        ```svar```
+        svar
         
 3. Útskýrðu stuttlega öll lögin í Open Systems Interconncetion Model (OSI Model)
 
+        svar
 4. Hvað er Restful API?
 
+        svar
 5. Sýndur sundurliðunina á eftirfarandi:
-        a. Http Request message
-        b. Http Respond message
+      a. Http Request message
+      
+        svar
+      b. Http Respond message
         
 6. Open Authorization (OAuth) og Token Base authentication. Útskýrðu hvað og hvernig þetta
 virkar
