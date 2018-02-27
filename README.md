@@ -92,6 +92,7 @@ An Introduction to APIs: https://zapier.com/learn/apis/
 
 1. Hver er munurinn á API og vefþjónustu (e. web services or Web API)? Hvað er sameiginlegt með
 þeim?
+        ```test```
 
 2. Pizza pöntun: crust type (orginal) toppings (cheese, pepperoni, garlic), status (cooking),
 customer (name, phone). Sýndu hvernig eftirfarandi pizza pöntun væri sett upp í:
