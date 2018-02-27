@@ -1,4 +1,4 @@
-import sqlite3, time
+import sqlite3, time, sys
 
 def login():
     while True:
@@ -27,9 +27,9 @@ def login():
 
 def newuser():
     found = 0
-    while found == 0:
+    while found ==0:
         username = input("Please enter a username: ")
-        with sqlite3.connect("quic.db") as db:
+        with sqlite3.connect("quiz.db") as db:
             cursor = db.cursor()
         findUser = ("SELECT * FROM user WHERE username = ?")
         cursor.execute(findUser,[(username)])
@@ -49,11 +49,10 @@ def newuser():
         password1 = input("Please reEnter your password: ")
     insertData = '''INSERT INTO user(username,firstname,surname,password)
     VALUES(?,?,?,?)
-    cursor.execute(executional)
     '''
     cursor.execute(insertData,[(username),(firstName),(surName),(password)])
-    db.commit()
 
+    db.commit()
 
 
 def menu():
@@ -74,7 +73,7 @@ def menu():
 
             elif userchoice == "3":
                 print("goodbye")
-                exit()
+                sys.exit()
 
             else:
                 print("Command not recognized: ")
