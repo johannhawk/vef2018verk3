@@ -81,3 +81,48 @@ sem eru ábótavant eða svar ábótavant.
 * Skilaðu á Innu GitHub slóð á kóðann ásamt vefslóð í readme sem vísra á a eða b:
 a) localhost, stutt skjámyndsupptaka af notkun vefs: https://screencast-o-matic.com/
 b) keyrandi veflausn (Digital Ocean).
+
+# Verkefni 3.3 – API (7%)
+### Bjargir:
+Designing RESTFul APIs (Lesson 1 og 2): https://www.udacity.com/course/designing-restful-apis--ud388
+An Introduction to APIs: https://zapier.com/learn/apis/
+
+#### Spurningar (3%)
+
+1. Hver er munurinn á API og vefþjónustu (e. web services or Web API)? Hvað er sameiginlegt með
+þeim?
+
+2. Pizza pöntun: crust type (orginal) toppings (cheese, pepperoni, garlic), status (cooking),
+customer (name, phone). Sýndu hvernig eftirfarandi pizza pöntun væri sett upp í:
+        a. JSON
+        b. XML
+        
+3. Útskýrðu stuttlega öll lögin í Open Systems Interconncetion Model (OSI Model)
+
+4. Hvað er Restful API?
+
+5. Sýndur sundurliðunina á eftirfarandi:
+        a. Http Request message
+        b. Http Respond message
+        
+6. Open Authorization (OAuth) og Token Base authentication. Útskýrðu hvað og hvernig þetta
+virkar
+#### Verkefni (4%) 2 af 4 verkefnum gilda.
+7. Notaðu curl tólið til að að senda Get Request á soundCloude (frjálst efnisval) (sjá lesson 2:6 í
+Udacity).
+ https://curl.haxx.se/
+ https://soundcloud.com/ (þarft að skrá þig)
+
+8. Notaðu Postman (chrome extension) til að búa til request til að fá latitude og longitude hnit fyrir
+Vörðuskóla. (sjá lesson 2:7 í Udacity)
+Geocoding API: https://developers.google.com/maps/documentation/geocoding/intro
+
+9. Notaðu Foursquare API og finndu alla pizzustaði í Reykjavík. Ath þú þarft að nota lat og long fyrir
+Reykjavík. https://developer.foursquare.com/ (sjá lesson 2:8 í Udacity)
+
+10. Skrifaðu eigið python app sem skilar long og lat frá heimabænum þínum. (sjá lesson 2:9 í
+Udacity)
+
+#### Námsmat og skil.
+Gefið er fullt fyrir fullnægjandi lausnir og svör, hálft fyrir lausnir eða svör sem eru ábótavant en virkar.
+Skilaðu Github slóð á Innu sem hýsir kóðann þinn og svör 
