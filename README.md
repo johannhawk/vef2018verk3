@@ -36,7 +36,7 @@ http://flask.pocoo.org/docs/0.12/patterns/sqlite3/
 
 
 6) ~~Fylgdu eftir Flaskr tutorial með sqlite, commentaðu á íslensku eftir þörfum (3%)
-http://flask.pocoo.org/docs/0.12/tutorial/ .~~
+http://flask.pocoo.org/docs/0.12/tutorial/ ~~
 _Fara í mega tutorial í staðinn_
 
 
