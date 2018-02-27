@@ -97,11 +97,11 @@ An Introduction to APIs: https://zapier.com/learn/apis/
 
 2. Pizza pöntun: crust type (orginal) toppings (cheese, pepperoni, garlic), status (cooking),
 customer (name, phone). Sýndu hvernig eftirfarandi pizza pöntun væri sett upp í:
-        a. JSON
+   a. JSON
         
         ```svar```
         
-        b. XML
+   b. XML
         
         ```svar```
         
