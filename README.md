@@ -121,6 +121,8 @@ customer (name, phone). Sýndu hvernig eftirfarandi pizza pöntun væri sett upp
         
 6. Open Authorization (OAuth) og Token Base authentication. Útskýrðu hvað og hvernig þetta
 virkar
+
+        svar
 #### Verkefni (4%) 2 af 4 verkefnum gilda.
 7. Notaðu curl tólið til að að senda Get Request á soundCloude (frjálst efnisval) (sjá lesson 2:6 í
 Udacity).
