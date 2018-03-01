@@ -96,8 +96,9 @@ An Introduction to APIs: https://zapier.com/learn/apis/
 1. Hver er munurinn á API og vefþjónustu (e. web services or Web API)? Hvað er sameiginlegt með
 þeim?
 
-        Þeir eru bæði gerð fyrir að færa upplýsingar
-        API getur ekki myndið vefclient sjálfkrafa og er venjulega byggt á vefþjónustur til að létta átak sett á notandan.
+        Þeir eru bæði gerð fyrir að færa upplýsingar, vanalega með XML eða JSON snið
+        API getur ekki myndið vefclient sjálfkrafa og 
+        er venjulega byggt á vefþjónustur til að létta átak sett á notandan.
 
 2. Pizza pöntun: crust type (orginal) toppings (cheese, pepperoni, garlic), status (cooking),
 customer (name, phone). Sýndu hvernig eftirfarandi pizza pöntun væri sett upp í:
