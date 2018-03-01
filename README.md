@@ -23,8 +23,6 @@ https://www.youtube.com/watch?v=QOUJEcphpyI&list=PL2f672TgnXEbwXobh66djqCFBXvmhx
 Ath. Til að búa til gagnagrunn í Pycharm; run og svo velja database þá verður til ,,local"
 gagnagrunnur með .db endingu.
 
-        SQLite/Python gagnagrunnið er merkt sem grunn á github skjölin
-
 ### SQLite og Flask
 
 
@@ -42,9 +40,13 @@ _Fara í mega tutorial í staðinn_
 
 
 #### Námsmat og skil:
-* Sýndu notkun á vefnum í lið 6 með Screencast tólinu https://screencast-o-matic.com/
-Settu youtube mynbandsslóðina (max 5 mín) í readme á Github.
+* ~~Sýndu notkun á vefnum í lið 6 með Screencast tólinu https://screencast-o-matic.com/
+Settu youtube mynbandsslóðina (max 5 mín) í readme á Github.~~
 * Settu kóðann úr lið 3 og lið 6 á Github og skilaðu mér GitHub slóðinni á Innu
+
+            Lið 3 SQLite/Python gagnagrunnið er merkt sem grunn á github skjölin
+            
+            
 * Gefið er fullt fyrir þá liði sem eru með fullnægjandi virkni, hálft fyrir þá sem eru
 ábótavant.
 * Ath. Það þarf ekki að setja vefinn á Digital Ocean.
