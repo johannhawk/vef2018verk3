@@ -23,6 +23,7 @@ https://www.youtube.com/watch?v=QOUJEcphpyI&list=PL2f672TgnXEbwXobh66djqCFBXvmhx
 Ath. Til að búa til gagnagrunn í Pycharm; run og svo velja database þá verður til ,,local"
 gagnagrunnur með .db endingu.
 
+        SQLite/Python gagnagrunnið er merkt sem grunn á github skjölin
 
 ### SQLite og Flask
 
