@@ -45,7 +45,7 @@ Settu youtube mynbandsslóðina (max 5 mín) í readme á Github.~~
 * Settu kóðann úr lið 3 og lið 6 á Github og skilaðu mér GitHub slóðinni á Innu
 
             Lið 3 SQLite/Python gagnagrunnið er merkt sem grunn á github skjölin
-            
+     https://github.com/johannhawk/vef2018verk3/tree/master/grunn            
             
 * Gefið er fullt fyrir þá liði sem eru með fullnægjandi virkni, hálft fyrir þá sem eru
 ábótavant.
