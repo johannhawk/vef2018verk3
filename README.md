@@ -114,7 +114,15 @@ customer (name, phone). Sýndu hvernig eftirfarandi pizza pöntun væri sett upp
         
    b. XML
         
-        svar
+        <orders>
+            <order>
+                <crust>original</crust>
+                <toppings>Cheese, Pepperoni, Garlic</toppings>
+                <status>cooking</status>
+                <name>name</name>
+                <phone>phone</phone>
+            </order>
+        </orders>
         
 3. Útskýrðu stuttlega öll lögin í Open Systems Interconncetion Model (OSI Model)
 
