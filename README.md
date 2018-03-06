@@ -100,11 +100,17 @@ An Introduction to APIs: https://zapier.com/learn/apis/
         API getur ekki myndið vefclient sjálfkrafa og 
         er venjulega byggt á vefþjónustur til að létta átak sett á notandan.
 
-2. Pizza pöntun: crust type (orginal) toppings (cheese, pepperoni, garlic), status (cooking),
+2. Pizza pöntun: crust type (original) toppings (cheese, pepperoni, garlic), status (cooking),
 customer (name, phone). Sýndu hvernig eftirfarandi pizza pöntun væri sett upp í:
    a. JSON
         
-        svar
+        {"orders":[
+            "crust":"original",
+            "toppings":["cheese","pepperoni","garlic"],
+            "status":"cooking",
+            "name":"name",
+            "phone":"phone"
+        ]}
         
    b. XML
         
