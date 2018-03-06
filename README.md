@@ -126,7 +126,21 @@ customer (name, phone). Sýndu hvernig eftirfarandi pizza pöntun væri sett upp
         
 3. Útskýrðu stuttlega öll lögin í Open Systems Interconncetion Model (OSI Model)
 
-        svar
+        Physical Layer
+            Snúrur, rafmagns kerfi, miðstöðvar, bylgjur.
+        Data Link Layer
+            Setur skilaboð í "umslög" fyrir flutningu
+        Network Layer
+            Velur hvaða leið til að koma skilaboðinu til skila, 
+        Transport Layer
+            Passar að skilaboðið kemur til leiðarenda án villur og upplýsinga tap
+        Session Layer
+            setur up "fund" á milli tenginga og vélar
+        Presentation Layer
+            "þýðir" upplýsingar fyrir næsta liðið
+        Application Layer
+            "gluggin" fyrir notandan
+        
 4. Hvað er Restful API?
 
         svar
