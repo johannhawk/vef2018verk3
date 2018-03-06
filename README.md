@@ -146,7 +146,8 @@ customer (name, phone). Sýndu hvernig eftirfarandi pizza pöntun væri sett upp
         Það er byggt á "representational state transfer" (REST), arkitektúr og nálgunar stíl fyrir samskipti með API
         RESTful API brýtur niður samskipti í röð af litlum bútum.
         Hver bútur fjallar um þeir eigin sérstakan hluta af samskiptum.
-        Með þessa tækni er hægt að skapa mjög sveiganleg kerfi enn það er erfitt að byggja frá engu enn fyrirbyggð módel eru í boði.
+        Með þessa tækni er hægt að skapa mjög sveiganleg kerfi
+        enn það er erfitt að byggja frá engu enn fyrirbyggð módel eru í boði.
         
 5. Sýndur sundurliðunina á eftirfarandi:
       a. Http Request message
