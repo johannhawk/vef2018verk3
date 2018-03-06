@@ -161,6 +161,7 @@ virkar
         svar
 #### Verkefni (4%) 2 af 4 verkefnum gilda.
 https://www.udacity.com/course/designing-restful-apis--ud388
+
 7. Notaðu curl tólið til að að senda Get Request á soundCloude (frjálst efnisval) (sjá lesson 2:6 í
 Udacity).
  https://curl.haxx.se/
