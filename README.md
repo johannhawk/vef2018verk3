@@ -41,7 +41,7 @@ _Fara í mega tutorial í staðinn_
 
 #### Námsmat og skil:
 * ~~Sýndu notkun á vefnum í lið 6 með Screencast tólinu https://screencast-o-matic.com/
-Settu youtube mynbandsslóðina (max 5 mín) í readme á Github.~~
+Settu youtube mynbandsslóðina (max 5 mín) í readme á Github.~~ _Fara í mega tutorial í staðinn_
 * Settu kóðann úr lið 3 og lið 6 á Github og skilaðu mér GitHub slóðinni á Innu
 
             Lið 3 SQLite/Python gagnagrunnið er merkt sem grunn á github skjölin
@@ -178,9 +178,11 @@ virkar
         Þetta token gefur þeim aðgang að verndaðar upplýsingar í takmarkaðan tíma.
         Það getur verið gefin til einhvern annan eða eitthvað tölvukerfi
         ef þú treysti það eða þá ekki nóg með passwordið þitt.
-/       
+       
 
-        testtest
+        OAuth er rammi sem gefur önnur forrit leyfi til að nota takmarkaða upplýsingar tengt við þig
+        svo að þú þarf ekki gefa allar upplýsingarnar tengd emailið þitt sem er of mikið leyfi og
+        nóg leyfi til að sjálfvirka hluti fyrir þig.
         
 #### Verkefni (4%) 2 af 4 verkefnum gilda.
 https://www.udacity.com/course/designing-restful-apis--ud388
