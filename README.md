@@ -176,9 +176,11 @@ virkar
 
         Token based gefur þig "token" þegar þú gerir vanalega öryggis atriðin að setja in username og password
         Þetta token gefur þeim aðgang að verndaðar upplýsingar í takmarkaðan tíma.
-        Það getur verið gefin til einhvern annan eða eitthvað tölvukerfi ef þú treysti það eða þá ekki nóg með passwordið þitt.
-        
-        
+        Það getur verið gefin til einhvern annan eða eitthvað tölvukerfi
+        ef þú treysti það eða þá ekki nóg með passwordið þitt.
+/       
+
+        testtest
         
 #### Verkefni (4%) 2 af 4 verkefnum gilda.
 https://www.udacity.com/course/designing-restful-apis--ud388
