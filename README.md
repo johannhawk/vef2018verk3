@@ -150,17 +150,36 @@ customer (name, phone). Sýndu hvernig eftirfarandi pizza pöntun væri sett upp
         enn það er erfitt að byggja frá engu enn fyrirbyggð módel eru í boði.
         
 5. Sýndur sundurliðunina á eftirfarandi:
+
       a. Http Request message
       
-        svar
+        <request-line>
+        <general-headers>
+        <request-headers>
+        <entity-headers>
+        <empty-line>
+        [<message-body>]
+        [<message-trailers>]
+
       b. Http Respond message
       
-        svar
+        <status-line>
+        <general-headers>
+        <response-headers>
+        <entity-headers>
+        <empty-line>
+        [<message-body>]
+        [<message-trailers>]
         
 6. Open Authorization (OAuth) og Token Base authentication. Útskýrðu hvað og hvernig þetta
 virkar
 
-        svar
+        Token based gefur þig "token" þegar þú gerir vanalega öryggis atriðin að setja in username og password
+        Þetta token gefur þeim aðgang að verndaðar upplýsingar í takmarkaðan tíma.
+        Það getur verið gefin til einhvern annan eða eitthvað tölvukerfi ef þú treysti það eða þá ekki nóg með passwordið þitt.
+        
+        
+        
 #### Verkefni (4%) 2 af 4 verkefnum gilda.
 https://www.udacity.com/course/designing-restful-apis--ud388
 
